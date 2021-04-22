@@ -14,7 +14,7 @@ MemeBot est un bot Discord (Discord.js) utilisant [ImgFlip API](https://imgflip.
 
 Tout d'abord, cloner le projet GitLab.
 
-    git clone https://gitlab.com/HelaryT/api-discord.git
+    git clone https://github.com/IsaacRuchalski/MemeBot.git
 
 Ensuite, se placer dans le répertoire du repository :
 

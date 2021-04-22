@@ -12,7 +12,7 @@ MemeBot est un bot Discord (Discord.js) utilisant [ImgFlip API](https://imgflip.
 
 **Notre bot est hébergé sur Heroku, une solution cloud. Ce qui veut dire que celui-ci est toujours fonctionnel. Il n'y a donc pas besoin d'installer le repository git. Vous pouvez donc passer directement à la section "Avant de l'utiliser"**, à part si vous voulez vraiment devoir héberger notre bot depuis votre machine au lieu du cloud, ou si le cloud est indisponible, auquel cas vous pouvez procéder aux instructions ci-dessous :
 
-Tout d'abord, cloner le projet GitLab.
+Tout d'abord, cloner le projet GitHub.
 
     git clone https://github.com/IsaacRuchalski/MemeBot.git
 
@@ -34,7 +34,7 @@ Cependant, puisque discord ne sait pas encore que vous utilisez le bot, le run n
 
 ## Avant de l'utiliser
 
-Avant de pouvoir l'utiliser, il faut avant tout l'ajouter sur un serveur discord.
+Avant de pouvoir l'utiliser, il faut avant tout l'ajouter sur un serveur discord (Où vous êtes autorisé à inviter un Bot !).
 Lors de la création du bot sur le portail des développeurs Discord, nous avons mis la visibilité du bot en publique. Ce qui veut dire que tout le monde peut ajouter notre bot ! l'adresse est la suivante :
 
 https://discord.com/api/oauth2/authorize?client_id=833709177540313129&permissions=0&scope=bot

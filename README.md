@@ -1,4 +1,4 @@
-# Memebot, le bot Discord du memer
+# Memebot, a memeful Discord Bot
 
 Hélary Théo, Le Louarn Guillaume, Ruchalski Isaac
 

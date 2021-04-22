@@ -2,6 +2,7 @@
 
 Hélary Théo, Le Louarn Guillaume, Ruchalski Isaac
 
+(Migré depuis Gitlab, projet originel : https://gitlab.com/HelaryT/api-discord)
 ## Comment le démarrer
 
 **Notre bot est hébergé sur Heroku, une solution cloud. Ce qui veut dire que celui-ci est toujours fonctionnel. Il n'y a donc pas besoin d'installer le repository git. Vous pouvez donc passer directement à la section "Avant de l'utiliser"**, à part si vous voulez vraiment devoir héberger notre bot depuis votre machine au lieu du cloud, ou si le cloud est indisponible.

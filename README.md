@@ -36,6 +36,8 @@ https://discord.com/api/oauth2/authorize?client_id=833709177540313129&permission
 
 Ajoutez notre bot sur le serveur discord de votre choix.
 
+Si vous le souhaitez, un serveur discord est à votre disposition pour tester le bot : https://discord.gg/RBVSv2YxKb Rejoignez-le et vous pouvez ensuite ajouter le bot avec l'adresse au-dessus !
+
 ## Comment l'utiliser
 
 Une fois le bot sur le serveur, vous le verrez apparaître dans votre serveur en tant que BOT, sous le nom "MemeBot".

@@ -1,10 +1,12 @@
-# Bot Discord
+# Memebot, le bot Discord du memer
 
 Hélary Théo, Le Louarn Guillaume, Ruchalski Isaac
 
 Migré depuis Gitlab, projet originel : https://gitlab.com/HelaryT/api-discord (D'où l'absence d'activité sur le repo GitHub)
 
-MemeBot est un bot discord (Discord.js) utilisant IMGFlip API pour générer des memes depuis Discord.
+MemeBot est un bot discord (Discord.js) utilisant [ImgFlip API](https://imgflip.com/api) pour générer des memes depuis Discord.
+
+
 
 ## Comment le démarrer
 

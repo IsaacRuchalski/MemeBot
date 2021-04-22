@@ -4,6 +4,8 @@ Hélary Théo, Le Louarn Guillaume, Ruchalski Isaac
 
 ## Comment le démarrer
 
+**Notre bot est hébergé sur Heroku, une solution cloud. Ce qui veut dire que celui-ci est toujours fonctionnel. Il n'y a donc pas besoin d'installer le repository git. Vous pouvez donc passer directement à la section "Avant de l'utiliser"**, à part si vous voulez vraiment devoir héberger notre bot depuis votre machine au lieu du cloud.
+
 Tout d'abord, cloner le projet GitLab.
 
     git clone https://gitlab.com/HelaryT/api-discord.git
@@ -36,6 +38,7 @@ Ajoutez notre bot sur le serveur discord de votre choix.
 ## Comment l'utiliser
 
 Une fois le bot sur le serveur, vous le verrez apparaître dans votre serveur en tant que BOT, sous le nom "MemeBot".
+
 Une fois que cela est fait, vous pouvez accéder aux commandes du bot.
 
 ### !getMemes

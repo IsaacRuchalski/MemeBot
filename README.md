@@ -1,6 +1,8 @@
 # Memebot, a memeful Discord Bot
 
-Hélary Théo, Le Louarn Guillaume, Ruchalski Isaac
++ Hélary Théo
++ Le Louarn Guillaume
++ Ruchalski Isaac (Rapport LaTex : https://www.overleaf.com/read/sjwwftsbnxyf)
 
 Migré depuis Gitlab, projet originel : https://gitlab.com/HelaryT/api-discord (D'où l'absence d'activité sur le repo GitHub)
 

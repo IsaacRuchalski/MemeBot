@@ -1,14 +1,12 @@
 # Memebot, a memeful Discord Bot
 
-+ Hélary Théo
-+ Le Louarn Guillaume
-+ Ruchalski Isaac (Rapport LaTex : https://www.overleaf.com/read/sjwwftsbnxyf)
+- Hélary Théo
+- Le Louarn Guillaume (Rapport LaTex : https://www.overleaf.com/read/fwmnphhrspft)
+- Ruchalski Isaac (Rapport LaTex : https://www.overleaf.com/read/sjwwftsbnxyf)
 
 Migré depuis Gitlab, projet originel : https://gitlab.com/HelaryT/api-discord (D'où l'absence d'activité sur le repo GitHub)
 
 MemeBot est un bot Discord (Discord.js) utilisant [ImgFlip API](https://imgflip.com/api) et node.js pour générer des memes depuis Discord.
-
-
 
 ## Comment le démarrer
 

@@ -1,8 +1,8 @@
 # MemeBot, a memeful Discord Bot
 
-- Hélary Théo (rapport LaTex : https://www.overleaf.com/read/gtykhbbrqjnx)
-- Le Louarn Guillaume (Rapport LaTex : https://www.overleaf.com/read/fwmnphhrspft)
-- Ruchalski Isaac (Rapport LaTex : https://www.overleaf.com/read/sjwwftsbnxyf)
+- Hélary Théo (rapport LaTeX : https://www.overleaf.com/read/gtykhbbrqjnx)
+- Le Louarn Guillaume (Rapport LaTeX : https://www.overleaf.com/read/fwmnphhrspft)
+- Ruchalski Isaac (Rapport LaTeX : https://www.overleaf.com/read/sjwwftsbnxyf)
 
 Migré depuis Gitlab, projet originel : https://gitlab.com/HelaryT/api-discord (D'où l'absence d'activité sur le repo GitHub)
 

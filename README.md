@@ -1,6 +1,6 @@
 # MemeBot, a memeful Discord Bot
 
-- Hélary Théo
+- Hélary Théo (rapport LaTex : https://www.overleaf.com/project/606d63645dd30394b4edd9e9)
 - Le Louarn Guillaume (Rapport LaTex : https://www.overleaf.com/read/fwmnphhrspft)
 - Ruchalski Isaac (Rapport LaTex : https://www.overleaf.com/read/sjwwftsbnxyf)
 

@@ -1,4 +1,4 @@
-# Memebot, a memeful Discord Bot
+# MemeBot, a memeful Discord Bot
 
 - Hélary Théo
 - Le Louarn Guillaume (Rapport LaTex : https://www.overleaf.com/read/fwmnphhrspft)
